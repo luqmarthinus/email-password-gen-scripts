@@ -1,6 +1,6 @@
 # Email and Password Generator
 
-This script generates email and password pairs based on names provided in a text file. :smile:
+This script generates email and password pairs based on names provided in a text file and will be saved to generated_email_password_pairs.csv. :smile:
 
 ## Installation
 
@@ -20,5 +20,3 @@ This script generates email and password pairs based on names provided in a text
 ## Run the script:
 ```sh
 python3 email_password_generator.py
-
-**The generated email and password pairs will be saved to generated_email_password_pairs.csv**
