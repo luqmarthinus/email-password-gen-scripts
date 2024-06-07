@@ -11,7 +11,7 @@ Below is an overview of what our script does:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/email-password-generator.git
+   git clone https://github.com/luqmarthinus/email-password-gen-scripts
 
 2. **Navigate to the project directory:**
     ```sh
