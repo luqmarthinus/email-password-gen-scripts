@@ -8,3 +8,18 @@ This script generates email and password pairs based on names provided in a text
 
    ```sh
    git clone https://github.com/yourusername/email-password-generator.git
+
+2. **Navigate to the project directory:**
+    ```sh
+    cd email-password-generator
+
+3. **Add names to the 'names.txt' file:**
+    Add the names for which you want to generate email and password pairs, with each name on a new line.
+
+## Usage
+
+# Run the script:
+```sh
+python3 email_password_generator.py
+
+The generated email and password pairs will be saved to generated_email_password_pairs.csv.
