@@ -43,9 +43,9 @@ for name in names:
     data.append({"email": email, "password": password})  # Append to data list
 
 # Write the data to a CSV file
-with open('random_emails.csv', mode='w', newline='') as file:
+with open('generated_email_password_pairs.csv', mode='w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=["email", "password"])  # Define CSV headers
     writer.writeheader()  # Write the header
     writer.writerows(data)  # Write the data rows
 
-print("Email and password pairs added to random_emails.csv")
+print("Email and password pairs added to generated_email_password_pairs.csv")
