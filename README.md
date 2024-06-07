@@ -1,6 +1,6 @@
 # Email and Password Generator
 
-This script generates email and password pairs based on names provided in a text file and will be saved to generated_email_password_pairs.csv. :smile:
+This script generates email(FLastname) and password pairs based on names provided in a text file and will be saved to generated_email_password_pairs.csv. :smile:
 
 ## Installation
 
