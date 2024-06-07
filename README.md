@@ -2,6 +2,8 @@
 
 This script generates email(FLastname) and password pairs based on names provided in a text file and will be saved to generated_email_password_pairs.csv. :smile:
 
+![Diagram](/email-password-gen-scripts/email-password-generator-flowchart.png)
+
 ## Installation
 
 1. **Clone the repository:**
